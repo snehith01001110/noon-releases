@@ -1,18 +1,18 @@
-Atlas
+Noon
 Copyright © 2026 Snehith Nayak. All rights reserved.
 
-You may download Atlas from its official download page
-(https://thenoonlight.com/atlas) and use it free of charge, for personal or
+You may download Noon from its official download page
+(https://thenoonlight.com) and use it free of charge, for personal or
 commercial work, on Macs you own or control.
 
-You may not sell, rent, redistribute or publish Atlas or a modified copy of
+You may not sell, rent, redistribute or publish Noon or a modified copy of
 it, and you may not reverse engineer it, except where the law allows this
-despite these terms. To share Atlas, point people to the download page.
+despite these terms. To share Noon, point people to the download page.
 
-Atlas includes third-party software under its own licenses, listed in
-THIRD_PARTY_NOTICES.md inside the app (Atlas.app/Contents/Resources).
+Noon includes third-party software under its own licenses, listed in
+THIRD_PARTY_NOTICES.md inside the app (Noon.app/Contents/Resources).
 
-Atlas runs coding agents you install yourself, such as Claude Code and Codex,
+Noon runs coding agents you install yourself, such as Claude Code and Codex,
 which are governed by their own terms. You are responsible for the agents you
 run, the permissions you give them, and the changes you merge.
 
