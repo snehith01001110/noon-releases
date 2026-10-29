@@ -30,7 +30,8 @@ This repository only hosts Noon's downloads; the source code isn't public.
 Each release lists the ZIP's SHA-256 checksum. To check it:
 `shasum -a 256 ~/Downloads/Noon.zip`
 
-Noon doesn't update itself; new versions are posted here.
+Noon checks for a new version once a day (or Noon → Check for Updates…)
+and asks before installing it. New versions are also posted here.
 
 ## Support
 
